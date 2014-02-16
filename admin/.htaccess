@@ -1,0 +1,4 @@
+AuthName " "
+AuthType Basic
+AuthUserFile "/root/.htpasswd"
+Require valid-user
